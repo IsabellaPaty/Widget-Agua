@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Tema apenas para a janela da Activity. Toda a UI é desenhada pelo Material 3 (Compose).
+        O tema escuro correspondente está em values-night/themes.xml.
+    -->
+    <style name="Theme.WidgetAgua" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

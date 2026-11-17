@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WidgetAgua</string>
+
+    <!-- Widget -->
+    <string name="water_widget_label">Consumo de Água</string>
+    <string name="water_widget_description">Acompanhe sua meta diária e adicione copos de água direto da tela inicial.</string>
+    <string name="water_widget_title">Consumo de Água</string>
+    <string name="water_widget_add_glass">Adicionar copo</string>
+    <string name="widget_remaining">Faltam %1$d copos para a meta</string>
+
+    <!-- Home -->
+    <string name="home_title">Consumo de Água</string>
+    <string name="action_add_glass">Adicionar copo</string>
+    <string name="action_remove_glass">Remover copo</string>
+    <string name="action_history">Histórico</string>
+    <string name="action_set_goal">Definir meta</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_reset_today">Zerar o dia</string>
+
+    <string name="progress_percent">%1$d%%</string>
+    <string name="glasses_count">%1$d copos</string>
+    <string name="liters_of_goal">%1$s L de %2$s L</string>
+    <string name="stat_consumed">Consumido</string>
+    <string name="stat_goal">Meta diária</string>
+    <string name="stat_remaining">Restante</string>
+    <string name="goal_reached">Meta atingida! Continue se hidratando 💧</string>
+
+    <string name="goal_dialog_title">Meta diária</string>
+    <string name="goal_dialog_message">Escolha quantos copos de %1$d ml você quer beber por dia.</string>
+    <string name="goal_dialog_value">%1$d copos • %2$s L</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_confirm">Salvar</string>
+
+    <!-- Histórico -->
+    <string name="history_title">Histórico</string>
+    <string name="history_empty">Ainda não há registros de consumo.</string>
+    <string name="history_item_detail">%1$d copos • %2$s L</string>
+</resources>
